@@ -1,5 +1,9 @@
-title: "Remote theme example"
+title: "Decidim dokumentation"
 remote_theme: pmarsceill/just-the-docs
-color_scheme: "dark"
-search_enabled: false
+theme: "just-the-docs"
+logo: /uploads/decidim-logo.svg
+#color_scheme: "dark"
+search_enabled: true
+heading_anchors: true
+footer_content: "CC-BY 4.0 <a href=\"https://digidemlab.org\">Digidem Lab</a> ❤️. Hjälp oss att förbättra den på <a href=\"https://github.com/digidemlab/decidim-docs\">Github</a>!"
 base_url: "https://digidemlab.org/decidim-docs"
