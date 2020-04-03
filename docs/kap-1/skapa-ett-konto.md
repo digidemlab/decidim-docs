@@ -1,25 +1,24 @@
 ---
-title: 🚦 Skapa ett konto
+title: "\U0001F6A6 Skapa ett konto"
 layout: default
-parent: 👶🏼 Utforska Decidim
+parent: "\U0001F476\U0001F3FC Utforska Decidim"
 has_children: false
 has_toc: false
-nav_order: 1
----
+nav_order: "1"
 
+---
 # 🚦 Skapa ett konto
 
 Decidims innehåll är offentligt för den mesta men för att kunna fullständigt delta måste man registrera sig.
 
 För att skapa ett konto, tryck på knappen **Registrera**.
 
-![Registrera]({{ "/uploads/registrera.png" | absolute_url }} "Registrera")
+![](/uploads/registrera.png)Du kommer behöva fylla in:
 
-Du kommer behöva fylla in:
-- ett namn
-- ett användarnamn
-- en e-postadress
-- ett lösenord
+* ett namn
+* ett användarnamn
+* en e-postadress
+* ett lösenord
 
 Och möjlightvis mer frivillig demografisk information som vi samlar för att kunna mäta deltaganden på ett bättre sätt.
 
