@@ -13,7 +13,7 @@ Nu ska vi konfigurera Decidims mest grundläggande inställningar. För att gör
 
 Du kommer på undersektionen **Konfiguration**.
 
-![Grundläggande inställningar](/uploads/konfiguration.png "Grundläggande inställningar")
+![Grundläggande inställningar]({{ "/uploads/konfiguration.png" | absolute_url }} "Grundläggande inställningar")
 
 1. **Namn:** Plattformens namn, den visas på olika ställen på plattformen
 2. **Sociala medier:** Där kan man skriva organisationens "handle" på alla sociala medier. T.ex. *digidemlab* för våra Twitter, Instagram och Facebook sidor.

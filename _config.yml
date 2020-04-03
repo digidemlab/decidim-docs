@@ -6,4 +6,4 @@ logo: /uploads/decidim-logo.svg
 search_enabled: true
 heading_anchors: true
 footer_content: "CC-BY 4.0 <a href=\"https://digidemlab.org\">Digidem Lab</a> ❤️. Hjälp oss att förbättra den på <a href=\"https://github.com/digidemlab/decidim-docs\">Github</a>!"
-base_url: "https://digidemlab.org/decidim-docs"
+base_url: "decidim-docs"

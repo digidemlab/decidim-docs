@@ -13,7 +13,7 @@ Nu har du ett konto och är förhoppsningsvis admin på plattformen. Om du inte 
 
 Rör din mus till ditt namn vid toppen och tryck på **Admin kontrollpanel** i den rullande menyn som vistas.
 
-![Admin-panel](/uploads/admin-panel.png "Admin-panel")
+![Admin-panel]({{ "/uploads/admin-panel.png" | absolute_url }} "Admin-panel")
 
 Grymt! Nu borde du finnas på admin-sidan!
 
