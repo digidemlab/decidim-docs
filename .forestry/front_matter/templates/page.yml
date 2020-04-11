@@ -21,3 +21,5 @@ fields:
 - type: number
   name: nav_order
   label: nav_order
+pages:
+- docs/kap-1/skapa-ett-konto.md

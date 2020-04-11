@@ -4,7 +4,7 @@ layout: default
 parent: "\U0001F476\U0001F3FC Utforska Decidim"
 has_children: false
 has_toc: false
-nav_order: "1"
+nav_order: 1
 
 ---
 # 🚦 Skapa ett konto
