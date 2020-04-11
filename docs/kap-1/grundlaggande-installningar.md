@@ -1,12 +1,12 @@
 ---
-title: 🔧 Grundläggande inställningar
+title: "\U0001F527 Grundläggande inställningar"
 layout: default
-parent: 👶🏼 Utforska Decidim
+parent: "\U0001F476\U0001F3FC Utforska Decidim"
 has_children: false
 has_toc: false
 nav_order: 3
----
 
+---
 # 🔧 Grundläggande inställningar
 
 Nu ska vi konfigurera Decidims mest grundläggande inställningar. För att göra detta måste du välja fliken **Inställningar**.

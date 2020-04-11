@@ -22,4 +22,5 @@ fields:
   name: nav_order
   label: nav_order
 pages:
+- docs/kap-1/grundlaggande-installningar.md
 - docs/kap-1/skapa-ett-konto.md
