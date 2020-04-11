@@ -1,12 +1,12 @@
 ---
-title: ⚙️ Gå till admin-panelen
+title: "⚙️ Gå till admin-panelen"
 layout: default
-parent: 👶🏼 Utforska Decidim
+parent: "\U0001F476\U0001F3FC Utforska Decidim"
 has_children: false
 has_toc: false
 nav_order: 2
----
 
+---
 # ⚙️ Gå till admin-panelen
 
 Nu har du ett konto och är förhoppsningsvis admin på plattformen. Om du inte är det får du fraga en existerande admin!
