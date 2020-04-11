@@ -8,9 +8,9 @@ sections:
   label: Pages
   create: all
 upload_dir: uploads
-public_path: decidim-docs/uploads
-front_matter_path: ''
-use_front_matter_path: false
+public_path: "/uploads"
+front_matter_path: decidim-docs/uploads
+use_front_matter_path: true
 file_template: ":filename:"
 build:
   preview_env:
