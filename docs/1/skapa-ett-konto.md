@@ -13,7 +13,7 @@ Decidims innehåll är offentligt för den mesta men för att kunna fullständig
 
 För att skapa ett konto, tryck på knappen **Registrera**.
 
-![Registrera](/decidim-docs/uploads/registrera.png "Registrera")
+![]({{ site.url }}/decidim-docs/uploads/registrera.png)
 
 Du kommer behöva fylla in:
 
