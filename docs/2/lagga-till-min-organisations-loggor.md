@@ -7,6 +7,8 @@ has_toc: false
 nav_order: 1
 
 ---
+# 🏙 Lägga till min organisations loggor
+
 Det första man kan göra för att anpassa sin Decidim plattform till sin organisations utseende är att lägga till sin logga.
 
 Det gör man genom att gå till admin-panelen på sektionen **Inställningar > Utseende**.
