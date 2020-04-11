@@ -20,6 +20,9 @@ För att göra det kan man gå till **Inställningar > Hemsida**. Där ser man d
 
 ![Inställningar för hemsidan]({{ site.url }}/decidim-docs/uploads/hemsida-installningar.png "Inställningar för hemsidan")
 
-1. Hjältebild: en stor bannerbild med en text och en uppmaningsknapp.  
+1. **Hjältebild**: en stor bannerbild med en text och en uppmaningsknapp.  
    \- Genom att trycka på pennan kan man välja en bild och redigera texten.  
    \- För att redigera knappen får man gå till **Inställningar > Konfiguration**.
+2. **Sub hjälte banner**: en text som kan också redigeras på **Inställningar > Konfiguration (Beskrivning)**.
+3. **Hur du deltar**: En förklaringstext om olika funktioner med en länk till sidan **Vanliga frågor**.
+4. **Annonserade processer**: Ett utrymme för att uppmärksamma några processer.
