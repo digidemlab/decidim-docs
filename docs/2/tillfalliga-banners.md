@@ -1,11 +1,10 @@
 ---
-title: tillfalliga banners
+title: "\U0001F4CB Tillfälliga banners"
 layout: default
 parent: "\U0001F484 Anpassa utseendet"
 has_children: false
 has_toc: false
 nav_order: 3
-published: false
 
 ---
 # 📋 Tillfälliga banners
