@@ -1,6 +1,6 @@
 ---
 layout: default
-title: hantera anvandarna
+title: "\U0001F468‍\U0001F469‍\U0001F467‍\U0001F466 Hantera användarna"
 parent: ''
 has_children: true
 has_toc: false
