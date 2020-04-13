@@ -3,7 +3,6 @@ title: "\U0001F484 Anpassa utseendet"
 layout: default
 has_children: true
 nav_order: 3
-parent: ''
 has_toc: false
 
 ---
