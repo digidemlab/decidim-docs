@@ -1,5 +1,5 @@
 ---
-title: fargerna
+title: "\U0001F3A8 Färgerna"
 layout: default
 parent: "\U0001F484 Anpassa utseendet"
 has_children: false
