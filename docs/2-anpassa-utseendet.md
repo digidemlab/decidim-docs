@@ -3,7 +3,8 @@ title: "\U0001F484 Anpassa utseendet"
 layout: default
 has_children: true
 nav_order: 3
-has_toc: false
+has_toc: true
+parent: ''
 
 ---
 # 💄 Anpassa utseendet

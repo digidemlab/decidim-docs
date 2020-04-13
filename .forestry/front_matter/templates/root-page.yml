@@ -22,4 +22,5 @@ fields:
   label: nav_order
 pages:
 - docs/1-utforska-decidim.md
+- docs/2-anpassa-utseendet.md
 - index.md
