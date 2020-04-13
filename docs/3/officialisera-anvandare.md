@@ -1,6 +1,6 @@
 ---
 layout: default
-title: officialisera anvandare
+title: "\U0001F396 Gör en användare officiell"
 parent: "\U0001F468‍\U0001F469‍\U0001F467‍\U0001F466 Hantera användarna"
 has_children: false
 has_toc: false
