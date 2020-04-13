@@ -2,6 +2,9 @@
 title: "\U0001F3E0 Hem"
 layout: default
 nav_order: 1
+has_children: false
+has_toc: false
+
 ---
 # Välkommen till Decidims dokumentation
 

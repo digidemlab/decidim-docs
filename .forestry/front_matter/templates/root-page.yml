@@ -20,3 +20,5 @@ fields:
 - type: number
   name: nav_order
   label: nav_order
+pages:
+- index.md
