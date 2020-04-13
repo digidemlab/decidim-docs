@@ -23,6 +23,7 @@ fields:
   name: nav_order
   label: nav_order
 pages:
+- docs/1-utforska-decidim.md
 - docs/1/ga-till-adminpanelen.md
 - docs/1/grundlaggande-installningar.md
 - docs/1/skapa-ett-konto.md

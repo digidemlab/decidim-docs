@@ -1,10 +1,12 @@
 ---
-title: 👶🏼 Utforska Decidim
+title: "\U0001F476\U0001F3FC Utforska Decidim"
 layout: default
 has_children: true
 nav_order: 2
----
+parent: ''
+has_toc: false
 
+---
 # 👶🏼 Utforska Decidim
 
 Äntligen! Nu har du installerat Decidim eller fått en färdig plattform av Digidem Lab! Nu är det dags att komma igång och konfigurera din plattform!
