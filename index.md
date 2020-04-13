@@ -1,7 +1,8 @@
 ---
-title: Hem
+title: "\U0001F3E0 Hem"
 layout: default
 nav_order: 1
+has_children: true
 ---
 # Välkommen till Decidims dokumentation
 
