@@ -21,4 +21,5 @@ fields:
   name: nav_order
   label: nav_order
 pages:
+- docs/1-utforska-decidim.md
 - index.md

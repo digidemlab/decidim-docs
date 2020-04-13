@@ -3,7 +3,8 @@ title: "\U0001F476\U0001F3FC Utforska Decidim"
 layout: default
 has_children: true
 nav_order: 2
-has_toc: false
+has_toc: true
+parent: ''
 
 ---
 # 👶🏼 Utforska Decidim
