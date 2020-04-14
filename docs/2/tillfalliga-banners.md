@@ -9,7 +9,7 @@ nav_order: 3
 ---
 # 📋 Tillfälliga banners
 
-Det är möjligt att lägga till en banner på hemsidan och en vid varje sidas topp för att dra användarnas uppmärksamhet till en viss process. Det är särskilt relevant när man vill få igenom viktig information eller påminna användarna att en omröstning slutar snart.
+Det är möjligt att lägga till en banner på hemsidan och en vid varje sidas topp för att dra användarnas uppmärksamhet till en viss process. Det är särskilt relevant när man vill få igenom viktig information eller påminna användarna att en omröstning snart slutar.
 
 ## Bannern på hemsidan
 
@@ -17,14 +17,14 @@ Den här bannern visas på hemsidan och kan konfigureras på **Inställningar > 
 
 ![Inställningar för hemsidans banner]({{ site.url }}/decidim-docs/uploads/banner-hemsida-admin.png "Inställningar för hemsidans banner")
 
-Där kan man aktivera/avaktivera bannern (**1**) och sätta de följande grejerna:
+Här kan man aktivera/avaktivera bannern (**1**) och lägga till följande inställningar: 
 
-1. **Titel**
-2. **Kort beskrivning**
-3. **Titel för åtgärdsknapp**
-4. **Undertitel för åtgärdsknapp**
-5. **URL för åtgärdsknapp**: sidan man ska gå till när man trycker på knappen
-6. **Bild**: En bild som kommer visas i bakgrunden
+2. **Titel**
+3. **Kort beskrivning**
+4. **Titel för åtgärdsknapp**
+5. **Undertitel för åtgärdsknapp**
+6. **URL för åtgärdsknapp**: sidan man ska gå till när man trycker på knappen
+7. **Bild**: En bild som kommer visas i bakgrunden
 
 Här är resultatet:
 
