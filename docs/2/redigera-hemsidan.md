@@ -7,22 +7,22 @@ has_toc: false
 nav_order: 2
 
 ---
-# 🏠 Redigera hemsidan
+# 🏠 Utforma hemsidan
 
-Decidims hemsida kan redigeras för att visa precis vad man vill.
+Decidims hemsida kan utformas för att visa precis vad man vill.
 
 Här är ett exempel från vår demo-plattform:
 
 ![Hemsida]({{ site.url }}/decidim-docs/uploads/hemsida.png "Hemsida")
 
-För att göra det kan man gå till **Inställningar > Hemsida**. Där ser man den följande listan:
+För att göra det kan man gå till **Inställningar > Hemsida**. Där ser man följande lista:
 
 ![Inställningar för hemsidan]({{ site.url }}/decidim-docs/uploads/hemsida-installningar.png "Inställningar för hemsidan")
 
- 1. **Hjältebild**: en stor bannerbild med en text och en uppmaningsknapp.  
+ 1. **Banner**: en stor bannerbild med en text och en uppmaningsknapp.  
     \- Genom att trycka på pennan kan man välja en bild och redigera texten.  
     \- För att redigera knappen får man gå till **Inställningar > Utseende**.
- 2. **Sub hjälte banner**: en text som kan också redigeras på **Inställningar > Konfiguration (Beskrivning)**.
+ 2. **Sidobanner**: en text som också kan redigeras på **Inställningar > Konfiguration (Beskrivning)**.
  3. **Hur du deltar**: En förklaringstext om olika funktioner med en länk till sidan **Vanliga frågor**.
  4. **Annonserade processer**: Ett utrymme för att uppmärksamma några processer.
  5. **Banner för uppmärksammat innehåll**: En banner för att uppmärksamma ett särskilt innehåll. För att redigera innehållet får man gå till **Inställningar > Utseende**.
