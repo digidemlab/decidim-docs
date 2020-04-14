@@ -8,4 +8,4 @@ nav_order: 4
 ---
 # 👨‍👩‍👧‍👦 Hantera användarna
 
-I denna kapitel kommer vi se allt om användarna på Decidim. Vi kommer gå igenom det följande:
+I detta kapitel kommer vi kunna se allt om användarna på Decidim. Vi kommer gå igenom följande:
