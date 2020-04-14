@@ -10,4 +10,4 @@ has_toc: true
 
 Äntligen! Nu har du installerat Decidim eller fått en färdig plattform av Digidem Lab! Nu är det dags att komma igång och konfigurera din plattform!
 
-I denna kapitel kommer vi se hur man kan:
+I detta kapitel visar vi hur man kan:
