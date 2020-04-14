@@ -9,13 +9,13 @@ nav_order: 2
 ---
 # 🎖 Gör en användare officiell
 
-För att bygga tillit med plattformens användarna kan det vara värdefullt att certifiera att de som står bakom vissa profiler är riktiga tjänstepersoner, politiker...
+För att bygga tillit med plattformens användare kan det vara värdefullt att intyga att de som står bakom vissa profiler är riktiga tjänstepersoner, politiker eller andra roller.
 
-Tänk på det blåa märket som står vid Kanye Wests namn på Twitter för att bekräfta att profilen tillhör stjärnan.
+Det är samma funktion som det blåa märket som står vid Kanye Wests namn på Twitter som bekräftar att profilen tillhör stjärnan.
 
 ![Officiell märke]({{ site.url }}/decidim-docs/uploads/marke.png "Officiell märke")
 
-På Decidim får man gå till sidan **Deltagare > Deltagare** och trycka på knappen **Gör officiell** (med bocken) för användarna man vill göra officiell.
+På Decidim får man gå till sidan **Deltagare > Deltagare** och trycka på knappen **Gör officiell** (med bocken) för de användare man vill göra officiella. 
 
 ![Göra officiell]({{ site.url }}/decidim-docs/uploads/marke-admin.png "Göra officiell")
 
