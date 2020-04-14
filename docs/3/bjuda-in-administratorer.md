@@ -9,10 +9,10 @@ nav_order: 1
 ---
 # 👩🏽‍💻 Bjuda in administratörer
 
-När man är administrator kan man bjuda andra att bli det.
+När man är administratör kan man bjuda in andra att bli det.
 
-För att göra det får man gå till **Deltagare > Administratörer**.
+För att göra det går man till **Deltagare > Administratörer**.
 
-Ditt trycker man på knappen **Ny deltagare** och fyller namnet och e-postadressen till den nya administratören.
+Där trycker man på knappen **Ny deltagare** och fyller i namnet och e-postadressen för den nya administratören.
 
 ![Bjuda in ny admin]({{ site.url }}/decidim-docs/uploads/bjuda-in-admin.png "Bjuda in ny admin")
