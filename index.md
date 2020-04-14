@@ -6,9 +6,9 @@ has_children: false
 has_toc: false
 
 ---
-# Välkommen till Decidims dokumentation
+# Välkommen till användarmanual för Decidim
 
-Här hittar du artiklar för att hjälpa dig att komma igång med Decidim, sätta ihop processer och andra typer av utrymmen för deltagande.
+Här hittar du artiklar som hjälper dig att komma igång med Decidim, sätta ihop processer och andra typer av utrymmen för deltagande.
 
 ## Support
 
