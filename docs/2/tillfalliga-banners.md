@@ -17,8 +17,9 @@ Den här bannern visas på hemsidan och kan konfigureras på **Inställningar > 
 
 ![Inställningar för hemsidans banner]({{ site.url }}/decidim-docs/uploads/banner-hemsida-admin.png "Inställningar för hemsidans banner")
 
-Här kan man aktivera/avaktivera bannern (**1**) och lägga till följande inställningar: 
+Här kan man aktivera/avaktivera bannern (**1**) och lägga till följande inställningar:
 
+1. **Visa den markerade innehålsbannern**: Aktivera/avaktivera bannern
 2. **Titel**
 3. **Kort beskrivning**
 4. **Titel för åtgärdsknapp**
