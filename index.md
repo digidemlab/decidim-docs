@@ -8,7 +8,7 @@ has_toc: false
 ---
 # Välkommen till användarmanual för Decidim
 
-Här hittar du bland annat artiklar som hjälper dig att komma igång med Decidim, hur du skapar processer och andra typer av utrymmen för deltagande.
+Här hittar du artiklar som hjälper dig att komma igång med Decidim, om hur du skapar processer och andra typer av utrymmen för deltagande.
 
 ## Support
 
