@@ -8,4 +8,4 @@ has_toc: true
 ---
 # 💄 Anpassa utseendet
 
-I denna kapitel kommer vi se allt man kan göra för att göra sin Decidim snygg och anpassad efter sin organisations grafisk identitet. Vi kommer förklara hur man kan:
+I detta kapitel visar vi hur du kan göra din organisations Decidim snygg och anpassad efter er grafiska profil. Kapitlet innehåller följandes steg: 
