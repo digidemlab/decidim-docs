@@ -6,6 +6,6 @@ has_toc: true
 nav_order: 4
 
 ---
-# 👨‍👩‍👧‍👦 Hantera användarna
+# 👨‍👩‍👧‍👦 Hantera användare
 
 I detta kapitel kommer vi kunna se allt om användarna på Decidim. Vi kommer gå igenom följande:
