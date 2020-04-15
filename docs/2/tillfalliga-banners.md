@@ -9,7 +9,7 @@ nav_order: 3
 ---
 # 📋 Tillfälliga banners
 
-Det är möjligt att lägga till en banner på hemsidan samt en på varje sidas topp för att dra användarnas uppmärksamhet till en viss process. Det är särskilt relevant när man vill synliggöra särskilt viktig information eller påminna användarna om att en omröstning snart slutar.
+Du kan både lägga till en banner på hemsidan samt en på varje sidas topp för att dra användarnas uppmärksamhet till en viss process. Det är särskilt relevant när man vill synliggöra särskilt viktig information eller påminna användarna om att en omröstning snart slutar.
 
 ## Bannern på hemsidan
 
