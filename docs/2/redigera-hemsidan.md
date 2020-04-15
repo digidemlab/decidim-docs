@@ -20,10 +20,10 @@ Du går till **Inställningar > Hemsida** för att designa din hemsida. Där ser
 ![Inställningar för hemsidan]({{ site.url }}/decidim-docs/uploads/hemsida-installningar.png "Inställningar för hemsidan")
 
  1. **Banner**: en stor bannerbild med en text och en uppmaningsknapp.  
-    \- Genom att trycka på pennan kan man välja en bild och redigera texten.  
-    \- För att redigera knappen får man gå till **Inställningar > Utseende**.
+    \- Genom att trycka på pennan kan du välja en bild och redigera texten.  
+    \- För att redigera knappen går du till **Inställningar > Utseende**.
  2. **Sidobanner**: en text som också kan redigeras på **Inställningar > Konfiguration (Beskrivning)**.
- 3. **Hur du deltar**: En förklaringstext om olika funktioner med en länk till sidan **Vanliga frågor**.
+ 3. **Hur du deltar**: En förklaringstext för de olika funktionerna med länk till sidan: **Vanliga frågor**.
  4. **Annonserade processer**: Ett utrymme för att uppmärksamma några processer.
  5. **Banner för uppmärksammat innehåll**: En banner för att uppmärksamma ett särskilt innehåll. För att redigera innehållet får man gå till **Inställningar > Utseende**.
  6. **Senaste aktiviteten**: De senaste förslag, kommentarer, initiativ...
