@@ -1,5 +1,5 @@
 ---
-title: "\U0001F3E0 Redigera hemsidan"
+title: "\U0001F3E0 Designa hemsidan"
 layout: default
 parent: "\U0001F484 Anpassa utseendet"
 has_children: false
@@ -7,15 +7,15 @@ has_toc: false
 nav_order: 2
 
 ---
-# 🏠 Utforma hemsidan
+# 🏠 Designa hemsidan
 
-Decidims hemsida kan utformas för att visa precis vad man vill.
+Decidims hemsida kan designas för att visa precis det du vill.
 
 Här är ett exempel från vår demo-plattform:
 
 ![Hemsida]({{ site.url }}/decidim-docs/uploads/hemsida.png "Hemsida")
 
-För att göra det kan man gå till **Inställningar > Hemsida**. Där ser man följande lista:
+Du går till **Inställningar > Hemsida** för att designa din hemsida. Där ser du följande lista:
 
 ![Inställningar för hemsidan]({{ site.url }}/decidim-docs/uploads/hemsida-installningar.png "Inställningar för hemsidan")
 
