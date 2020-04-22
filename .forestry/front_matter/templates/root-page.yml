@@ -21,9 +21,7 @@ fields:
   name: nav_order
   label: nav_order
 pages:
-- dialogfunktioner.md
 - docs/1-utforska-decidim.md
 - docs/2-anpassa-utseendet.md
 - docs/3-hantera-anvandarna.md
-- docs/dialogutrymmen.md
 - index.md
