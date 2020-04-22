@@ -29,3 +29,11 @@ Du behöver fylla i följande information:
 Så här kommer det se ut på din process tidslinje:
 
 ![]({{ site.url }}/decidim-docs/uploads/process-steps.png)
+
+## Byta och omorganisera steg
+
+När du har skapat alla steg för din process kan du välja vilken du vill aktivera genom att trycka på märket **(1)** och omorganisera dem med det svarta korset **(2)**.
+
+![]({{ site.url }}/decidim-docs/uploads/process-steps-admin-2.png)
+
+Den gröna cirkeln visar vilket steg är aktivt just nu.
