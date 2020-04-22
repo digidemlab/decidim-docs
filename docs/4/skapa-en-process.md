@@ -5,7 +5,6 @@ parent: "➡️ Processer"
 has_children: false
 has_toc: false
 nav_order: "1"
-grandparent: "\U0001F3AA Dialogutrymmen"
 grand_parent: "\U0001F3AA Dialogutrymmen"
 
 ---
@@ -68,7 +67,7 @@ Här kan man välja tre saker:
 * En standard process är offentlig och alla användare kan delta. Man kan också välja att göra den privat genom att välja **Private utrymme** och då får man bjuda in alla deltagare manuellt.
 * **Annonserad** kan man använda för att uppmärksamma en process både i processlistan (där processen kommer att ligga på toppen och ha ett större kort) och på hemsidan (med elementet **Annonserade processer**.
 
-![]({{ site.url }}/decidim-docs/uploads/process-admin-6.png) 
+![]({{ site.url }}/decidim-docs/uploads/process-admin-6.png)
 
 ## Statistik
 
