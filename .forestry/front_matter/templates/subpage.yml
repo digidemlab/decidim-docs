@@ -5,6 +5,7 @@ fields:
 - type: text
   name: layout
   label: layout
+  default: default
 - type: text
   name: title
   label: title
@@ -22,8 +23,16 @@ fields:
 - type: boolean
   name: has_toc
   label: has_toc
-- type: text
-  name: nav_order
+- name: nav_order
+  type: number
   label: nav_order
+  description: ''
+  default: 1
+  required: true
+  config:
+    min: 
+    max: 
+    step: 
+    required: true
 pages:
 - docs/4/skapa-en-process.md
