@@ -35,4 +35,5 @@ fields:
     step: 
     required: true
 pages:
+- docs/4/lagga-till-steg.md
 - docs/4/skapa-en-process.md
