@@ -11,11 +11,11 @@ fields:
 - type: text
   name: parent
   label: parent
-- name: grandparent
+- name: grand_parent
   type: text
   config:
     required: false
-  label: grandparent
+  label: grand_parent
 - type: boolean
   name: has_children
   label: has_children
