@@ -26,3 +26,32 @@ För att skapa en ny process får man gå till admin-panelen. Där finns det en 
 Här kan du se var de olika elementen kommer visas på processidan:
 
 ![]({{ site.url }}/decidim-docs/uploads/process-1.png)
+
+## Datum
+
+Sen får du skriva in start- och slutdatum för din process. De kommer att visa på högre sidan av processidan.
+
+![]({{ site.url }}/decidim-docs/uploads/process-admin-2.png)
+
+## Bilder
+
+![]({{ site.url }}/decidim-docs/uploads/process-admin-3.png)
+
+Du kan välja två bilder för din process:
+
+* **Hembilden** kommer att visas på processens kort i processlistan
+* **Bannerbilden** visas under processens rubrik
+
+## Metadata
+
+Metadata är bara indikativ information för att ge olika detaljer om processen.
+
+![]({{ site.url }}/decidim-docs/uploads/process-admin-4.png)
+
+De kommer att synas med datumen på högre sidan.
+
+![]({{ site.url }}/decidim-docs/uploads/process-2.png)
+
+## Filter
+
+Du kan välja att begränsa en process till en viss omfång och område (till exempel en stadsdel).
