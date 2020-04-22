@@ -4,7 +4,7 @@ title: "\U0001F195 Skapa en process"
 parent: "➡️ Processer"
 has_children: false
 has_toc: false
-nav_order: "1"
+nav_order: 1
 grand_parent: "\U0001F3AA Dialogutrymmen"
 
 ---
