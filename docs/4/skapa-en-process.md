@@ -6,6 +6,7 @@ has_children: false
 has_toc: false
 nav_order: "1"
 grandparent: "\U0001F3AA Dialogutrymmen"
+grand_parent: "\U0001F3AA Dialogutrymmen"
 
 ---
 # 🆕 Skapa en process
