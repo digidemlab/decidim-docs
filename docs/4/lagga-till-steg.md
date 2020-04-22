@@ -1,9 +1,9 @@
 ---
 layout: default
-nav_order: 1
-title: lagga till steg
-parent: ''
-grand_parent: ''
+nav_order: 2
+title: "\U0001F4CDLägga till steg"
+parent: "➡️ Processer"
+grand_parent: "\U0001F3AA Dialogutrymmen"
 has_children: false
 has_toc: false
 
