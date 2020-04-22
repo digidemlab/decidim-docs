@@ -55,3 +55,27 @@ De kommer att synas med datumen på högre sidan.
 ## Filter
 
 Du kan välja att begränsa en process till en viss omfång och område (till exempel en stadsdel).
+
+![]({{ site.url }}/decidim-docs/uploads/process-admin-5.png)
+
+## Synlighet
+
+Här kan man välja tre saker:
+
+* **Processgrupp** kan man använda för att gruppera olika processer för att göra dem lättare att hitta. Man kan skapa en processgrupp i sektionen **Processer > Processgrupper > Ny processgrupp**.
+* En standard process är offentlig och alla användare kan delta. Man kan också välja att göra den privat genom att välja **Private utrymme** och då får man bjuda in alla deltagare manuellt.
+* **Annonserad** kan man använda för att uppmärksamma en process både i processlistan (där processen kommer att ligga på toppen och ha ett större kort) och på hemsidan (med elementet **Annonserade processer**.
+
+![]({{ site.url }}/decidim-docs/uploads/process-admin-6.png) 
+
+## Statistik
+
+![]({{ site.url }}/decidim-docs/uploads/process-admin-7.png)
+
+På processidan kan man också visa deltagarstatistik.
+
+![]({{ site.url }}/decidim-docs/uploads/process-3.png)
+
+Man kan också visa utvecklingen av deltagandet i tiden.
+
+![]({{ site.url }}/decidim-docs/uploads/process-4.png)
