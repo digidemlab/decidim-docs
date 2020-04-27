@@ -20,6 +20,7 @@ Du kommer på en lång sida med många inställningar. Vi kommer gå igenom var 
 
  1. **Namn**, komponentens rubrik;
  2. **Vikt**, komponentens position i menyn relativt till de andra;  
+      
     ![]({{ site.url }}/decidim-docs/uploads/proposal-admin-2.png)
  3. **Röstningsgräns per användare**, hur många förslag en användare kan rösta på. 0 betyder obegränsat;
  4. **Minsta antal röster per användare**, hur många förslag en användare måste rösta på så sin röst räknas;
