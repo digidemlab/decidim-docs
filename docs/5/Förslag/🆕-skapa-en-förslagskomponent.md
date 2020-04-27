@@ -1,5 +1,5 @@
 ---
-layout: ''
+layout: default
 nav_order: 1
 title: "\U0001F195 Skapa en förslagskomponent"
 parent: "\U0001F4E5 Förslag"
