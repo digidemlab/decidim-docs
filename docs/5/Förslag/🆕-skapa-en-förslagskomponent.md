@@ -45,13 +45,23 @@ Du kommer på en lång sida med många inställningar. Vi kommer gå igenom var 
 19. **Meddelande**, en text som kommer visas ovanpå listan av förslag;
 20. **Hjälptexter**, olika hjälptexter som kommer att visas när användaren skapar sitt förslag.
 
-Om du använder komponenten i en process finns det fler inställningar för att konfigurera komponentens beteende under de olika faserna.
-
 ## Fasinställningar
+
+Om du använder komponenten i en process finns det fler inställningar för att konfigurera komponentens beteende under de olika faserna.
 
 ![]({{ site.url }}/decidim-docs/uploads/proposal-admin-5.png)
 
-1. **Instämmanden aktiverade**, användarna kan ge sitt instämmande till ett förslag och se antalet instämmanden;
-2. **Instämmanden är blockerade**, användarna kan inte ge fler instämmanden (men kan se dem om **1** är aktiverad);
-3. **Röstning aktiverat**, användarna kan stötta ett förslag och se antalet stöder;
-4. Röst
+ 1. **Instämmanden aktiverade**, användarna kan ge sitt instämmande till ett förslag och se antalet instämmanden;
+ 2. **Instämmanden är blockerade**, användarna kan inte ge fler instämmanden (men kan se dem om **1** är aktiverad);
+ 3. **Röstning aktiverat**, användarna kan stötta ett förslag och se antalet stöder;
+ 4. **Röstande blockerat**, användarna kan inte ge fler röster (men kan se dem om 3 är aktiverad och 5 avaktiverad);
+ 5. **Röster dolda**, gömmer antalet röster;
+ 6. **Kommentarer blockerade**, kommentarer blockeras under den här fasen;
+ 7. **Skapande av förslag aktiverat**, användarna kan skapa förslag;
+ 8. **Svar på förslag aktiverat**, administratörerna kan svara till förslagen;
+
+      
+    ![]({{ site.url }}/decidim-docs/uploads/proposal-admin-6.png)
+ 9. **Meddelande**, en text som kommer visas ovanpå listan av förslag under den här fasen;
+10. **Hashtags läggs till i alla förslag**
+11. **Förslag på hashtags för nya förslag till deltagare**
