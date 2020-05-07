@@ -1,6 +1,6 @@
 ---
 layout: default
-nav_order: "2"
+nav_order: 2
 title: "\U0001F5C3 Hantera förslag"
 parent: "\U0001F4E5 Förslag"
 grand_parent: "\U0001F9F0 Dialogfunktioner"
