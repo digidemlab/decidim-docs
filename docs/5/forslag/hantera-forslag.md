@@ -1,7 +1,7 @@
 ---
 layout: default
-nav_order: 2
-title: 🗃 Hantera förslag
+nav_order: "2"
+title: "\U0001F5C3 Hantera förslag"
 parent: "\U0001F4E5 Förslag"
 grand_parent: "\U0001F9F0 Dialogfunktioner"
 has_children: false
@@ -22,4 +22,6 @@ Man kan också göra de följande åtgärderna:
 
 * svara till ett förslag
 * byta kategori eller omfång för ett eller flera förslag
-...
+  ...
+
+**\[DEN HÄR SIDAN BLIR KLAR SNART!\]**
