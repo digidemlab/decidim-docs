@@ -1,6 +1,6 @@
 ---
 layout: default
-title: moten
+title: "\U0001F4C6 Möten och event"
 parent: "\U0001F9F0 Dialogfunktioner"
 has_children: true
 has_toc: true
