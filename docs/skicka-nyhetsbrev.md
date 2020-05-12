@@ -2,7 +2,7 @@
 layout: default
 has_children: true
 has_toc: true
-title: skicka-nyhetsbrev
+title: "✉️ Nyhetsbrev och andra e-postnotiser"
 nav_order: 8
 
 ---
