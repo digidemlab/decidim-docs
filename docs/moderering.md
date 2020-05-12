@@ -2,7 +2,7 @@
 layout: default
 has_children: false
 has_toc: false
-title: moderering
+title: "\U0001F6E1 Moderering"
 nav_order: 7
 
 ---
