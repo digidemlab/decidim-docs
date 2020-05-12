@@ -1,6 +1,6 @@
 ---
 layout: default
-title: E-postnotiser
+title: "\U0001F4EC E-postnotiser"
 parent: "✉️ Nyhetsbrev och andra e-postnotiser"
 has_children: false
 has_toc: false
