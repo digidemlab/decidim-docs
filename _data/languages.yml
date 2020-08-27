@@ -1,0 +1,8 @@
+en:
+  label: "English"
+  icon: "🇺🇸"
+  footer_text: Help us to improve it on <a href="https://github.com/digidemlab/decidim-docs">Github</a>
+sv:
+  label: "Svenska"
+  icon: "🇸🇪"
+  footer_text: Hjälp oss att förbättra den på <a href="https://github.com/digidemlab/decidim-docs">Github</a>
