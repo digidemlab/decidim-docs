@@ -34,8 +34,3 @@ fields:
     max: 
     step: 
     required: true
-pages:
-- docs/4/lagga-till-steg.md
-- docs/4/skapa-en-process.md
-- docs/5/forslag/hantera-forslag.md
-- docs/5/forslag/skapa-en-forslagskomponent.md

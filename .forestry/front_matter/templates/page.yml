@@ -22,19 +22,3 @@ fields:
 - type: number
   name: nav_order
   label: nav_order
-pages:
-- docs/1/ga-till-adminpanelen.md
-- docs/1/grundlaggande-installningar.md
-- docs/1/skapa-ett-konto.md
-- docs/2/fargerna.md
-- docs/2/lagga-till-min-organisations-loggor.md
-- docs/2/redigera-hemsidan.md
-- docs/2/tillfalliga-banners.md
-- docs/3/bjuda-in-administratorer.md
-- docs/3/officialisera-anvandare.md
-- docs/4/processer.md
-- docs/5/forslag.md
-- docs/5/genomforande.md
-- docs/5/moten.md
-- docs/7/e-postnotiser.md
-- docs/7/nyhetsbrev.md

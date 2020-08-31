@@ -20,10 +20,3 @@ fields:
 - type: number
   name: nav_order
   label: nav_order
-pages:
-- docs/1-utforska-decidim.md
-- docs/2-anpassa-utseendet.md
-- docs/3-hantera-anvandarna.md
-- docs/moderering.md
-- docs/skicka-nyhetsbrev.md
-- index.md
