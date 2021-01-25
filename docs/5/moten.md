@@ -1,7 +1,7 @@
 ---
 title: "\U0001F4C6 Möten och event"
 layout: default
-parent: "\U0001F9F0 Dialogfunktioner"
+parent: "\U0001F9F0 Komponenter"
 has_children: false
 has_toc: false
 nav_order: 2

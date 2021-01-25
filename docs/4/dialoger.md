@@ -1,7 +1,7 @@
 ---
-title: "➡️ Processer"
+title: "➡️ Dialoger"
 layout: default
-parent: "\U0001F3AA Dialogutrymmen"
+parent: "\U0001F3AA Utrymmen"
 has_children: true
 has_toc: true
 nav_order: 1

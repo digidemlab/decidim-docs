@@ -2,7 +2,7 @@
 title: "\U0001F195 Skapa en förslagskomponent"
 layout: default
 parent: "\U0001F4E5 Förslag"
-grand_parent: "\U0001F9F0 Dialogfunktioner"
+grand_parent: "\U0001F9F0 Komponenter"
 has_children: false
 has_toc: false
 nav_order: 1

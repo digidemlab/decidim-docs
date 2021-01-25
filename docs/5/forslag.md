@@ -1,7 +1,7 @@
 ---
 title: "\U0001F4E5 Förslag"
 layout: default
-parent: "\U0001F9F0 Dialogfunktioner"
+parent: "\U0001F9F0 Komponenter"
 has_children: true
 has_toc: true
 nav_order: 1

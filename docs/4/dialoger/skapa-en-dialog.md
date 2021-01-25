@@ -1,8 +1,8 @@
 ---
-title: "\U0001F195 Skapa en process"
+title: "\U0001F195 Skapa en dialog"
 layout: default
-parent: "➡️ Processer"
-grand_parent: "\U0001F3AA Dialogutrymmen"
+parent: "➡️ Dialoger"
+grand_parent: "\U0001F3AA Utrymmen"
 has_children: false
 has_toc: false
 nav_order: 1

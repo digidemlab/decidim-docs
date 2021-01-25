@@ -3,7 +3,7 @@ title: "\U0001F3AA Utrymmen"
 layout: default
 has_children: true
 has_toc: true
-nav_order: "5"
+nav_order: 5
 
 ---
 # 🎪 Utrymmen
