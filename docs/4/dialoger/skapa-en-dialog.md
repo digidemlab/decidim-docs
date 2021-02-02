@@ -8,75 +8,75 @@ has_toc: false
 nav_order: 1
 
 ---
-# 🆕 Skapa en process
+# 🆕 Skapa en dialog
 
-För att skapa en ny process får man gå till admin-panelen. Där finns det en sektion **Processer** och en knapp **Ny process**.
+För att skapa en ny dialog får man gå till admin-panelen. Där finns det en sektion **Dialoger** och en knapp **Ny dialog**.
 
 ## Allmän information
 
-![]({{ site.url }}/decidim-docs/uploads/process-admin-1.png)
+![]({{ site.url }}/decidim-docs/uploads/dialog-admin-1.png)
 
 1. **Titel**
 2. **Underrubrik**
-3. **URL-slug**, slutet på webbadressen. Till exempel _dialog.se/processes/**minprocess**_
+3. **URL-slug**, slutet på webbadressen. Till exempel _dialog.se/dialoges/**mindialog**_
 4. **Hashtag**
 5. **Kort beskrivning**
 6. **Beskrivning**
-7. **Meddelande**, som kommer att synas ovanpå beskrivningen och kan användas för att uppmärksamma viktig och tillfällig information om processen
+7. **Meddelande**, som kommer att synas ovanpå beskrivningen och kan användas för att uppmärksamma viktig och tillfällig information om dialogen
 
-Här kan du se var de olika elementen kommer visas på processidan:
+Här kan du se var de olika elementen kommer visas på dialogsidan:
 
-![]({{ site.url }}/decidim-docs/uploads/process-1.png)
+![]({{ site.url }}/decidim-docs/uploads/dialog-1.png)
 
 ## Datum
 
-Sen får du skriva in start- och slutdatum för din process. De kommer att visa på högre sidan av processidan.
+Sen får du skriva in start- och slutdatum för din dialog. De kommer att visa på högre sidan av dialogsidan.
 
-![]({{ site.url }}/decidim-docs/uploads/process-admin-2.png)
+![]({{ site.url }}/decidim-docs/uploads/dialog-admin-2.png)
 
 ## Bilder
 
-![]({{ site.url }}/decidim-docs/uploads/process-admin-3.png)
+![]({{ site.url }}/decidim-docs/uploads/dialog-admin-3.png)
 
-Du kan välja två bilder för din process:
+Du kan välja två bilder för din dialog:
 
-* **Hembilden** kommer att visas på processens kort i processlistan
-* **Bannerbilden** visas under processens rubrik
+* **Hembilden** kommer att visas på dialogens kort i dialoglistan
+* **Bannerbilden** visas under dialogens rubrik
 
 ## Metadata
 
-Metadata är bara indikativ information för att ge olika detaljer om processen.
+Metadata är bara indikativ information för att ge olika detaljer om dialogen.
 
-![]({{ site.url }}/decidim-docs/uploads/process-admin-4.png)
+![]({{ site.url }}/decidim-docs/uploads/dialog-admin-4.png)
 
 De kommer att synas med datumen på högre sidan.
 
-![]({{ site.url }}/decidim-docs/uploads/process-2.png)
+![]({{ site.url }}/decidim-docs/uploads/dialog-2.png)
 
 ## Filter
 
-Du kan välja att begränsa en process till en viss omfång och område (till exempel en stadsdel).
+Du kan välja att begränsa en dialog till en viss omfång och område (till exempel en stadsdel).
 
-![]({{ site.url }}/decidim-docs/uploads/process-admin-5.png)
+![]({{ site.url }}/decidim-docs/uploads/dialog-admin-5.png)
 
 ## Synlighet
 
 Här kan man välja tre saker:
 
-* **Processgrupp** kan man använda för att gruppera olika processer för att göra dem lättare att hitta. Man kan skapa en processgrupp i sektionen **Processer > Processgrupper > Ny processgrupp**.
-* En standard process är offentlig och alla användare kan delta. Man kan också välja att göra den privat genom att välja **Private utrymme** och då får man bjuda in alla deltagare manuellt.
-* **Annonserad** kan man använda för att uppmärksamma en process både i processlistan (där processen kommer att ligga på toppen och ha ett större kort) och på hemsidan (med elementet **Annonserade processer**.
+* **Dialoggrupp** kan man använda för att gruppera olika dialoger för att göra dem lättare att hitta. Man kan skapa en dialoggrupp i sektionen **Dialoger > Dialoggrupper > Ny dialoggrupp**.
+* En standard dialog är offentlig och alla användare kan delta. Man kan också välja att göra den privat genom att välja **Private utrymme** och då får man bjuda in alla deltagare manuellt.
+* **Annonserad** kan man använda för att uppmärksamma en dialog både i dialoglistan (där dialogen kommer att ligga på toppen och ha ett större kort) och på hemsidan (med elementet **Annonserade dialoger**.
 
-![]({{ site.url }}/decidim-docs/uploads/process-admin-6.png)
+![]({{ site.url }}/decidim-docs/uploads/dialog-admin-6.png)
 
 ## Statistik
 
-![]({{ site.url }}/decidim-docs/uploads/process-admin-7.png)
+![]({{ site.url }}/decidim-docs/uploads/dialog-admin-7.png)
 
-På processidan kan man också visa deltagarstatistik.
+På dialogidan kan man också visa deltagarstatistik.
 
-![]({{ site.url }}/decidim-docs/uploads/process-3.png)
+![]({{ site.url }}/decidim-docs/uploads/dialog-3.png)
 
 Man kan också visa utvecklingen av deltagandet i tiden.
 
-![]({{ site.url }}/decidim-docs/uploads/process-4.png)
+![]({{ site.url }}/decidim-docs/uploads/dialog-4.png)

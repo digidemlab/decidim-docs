@@ -19,6 +19,6 @@ För att göra det för en dialog exempelvis måste du gå till sidan **Dialoger
 
 ![]({{ site.url }}/decidim-docs/uploads/duplicate-space-1.png)
 
-När man trycker på den kan man välja vilket namn det nya dialogen heter, sin nya adress och vilka karakteristiker av dialogen man vill kopiera: steg, kategorier, komponenter.
+När man trycker på den kan man välja vilket namn det nya dialogen heter, sin nya adress och vilka egenskaper av dialogen man vill kopiera: steg, kategorier, komponenter.
 
 ![]({{ site.url }}/decidim-docs/uploads/duplicate-space-2.png)
