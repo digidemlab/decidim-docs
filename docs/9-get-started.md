@@ -1,8 +1,8 @@
 ---
 title: "✌🏼 Kom igång med din plattform"
 layout: default
-has_children: false
-has_toc: false
+has_children: true
+has_toc: true
 nav_order: 10
 
 ---
@@ -61,3 +61,7 @@ Nu är det dags att välja komponenter för dialogen:
 - oftast börjar man med en förslagskomponent för att samla idéer, förslag
 - om ni vill anordna träffar (digitala eller fysiska) kan ni lägga till en möteskomponent
 - ni kan också använda komponenten Sida för att lägga till olika infosidor.
+
+## Andra hjälpsidor
+
+Du kan även läsa våra andra sidor om
