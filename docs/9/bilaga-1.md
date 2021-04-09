@@ -1,5 +1,5 @@
 ---
-title: "📎 Bilaga 1"
+title: "📎 Bilaga 1 (instruktion)"
 layout: default
 parent: "👀 PUB-avtalet"
 grand_parent: "✌🏼 Kom igång med din plattform"
@@ -53,7 +53,7 @@ Personuppgiftsbiträdet även sparar **besöksstatistik** för webbsidan.
 | Behandlingssteg | Beskrivning |
 | ----------- | ----------- |
 | Insamling   | Se 1. för en full lista av insamlade personuppgifter. Besöksstatistik görs med verktyget Matomo på ett anonymt sätt. Allt annat data samlas när användarna skapar sitt konto eller när de skapar offentligt innehåll på plattformen.       |
-| Överföring och lagring | Datan används inte utanför plattformen och lagras på våra egna servrar (se 8.) |
+| Överföring och lagring | Datan används inte utanför plattformen och lagras på våra egna servrar (se 7.) |
 | Analys   | Aggregerade data kan analyseras i form av visualiseringar och anonym statistik kan exporteras för vidare analys utanför verktyget |
 | Administration   | Plattformens administratörer får endast tillgång till användarnas e-postadress och till aggregerade anonyma statistik av vissa andra personuppgifter (kön, åldersgrupp) |
 
@@ -79,7 +79,9 @@ Behandlingen av personuppgifter sker endast i EU/EES.
 - Plattformen driver från en server hos Hetzner i **Finland**
 - Besöksstatistik samlas på en Matomo server hos Hetzner i **Finland**
 - Loggar samlas på en Sentry server hos Hetzner i **Finland**
-- Mejlen som skickas av plattformen skickas igenom tjänsten Mailjet, på servrar i **EU** (läs mer här)
+- Mejlen som skickas av plattformen skickas igenom tjänsten Mailjet, på servrar i **Belgien eller Tyskland**
+
+Läs mer om våra underbiträden i [bilagan 2](bilaga-2).
 
 ## 8. Gallringstid
 
