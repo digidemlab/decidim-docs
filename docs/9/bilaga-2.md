@@ -15,6 +15,6 @@ Följande underbiträden hos Personuppgiftsbiträdet kommer att behandla personu
 | Underbiträde | Typ | Behandling sker i (land) |
 | ----------- | ----------- | ----------- |
 | Hetzner   | Serverbolag, hostar servrarna för Decidim, besöksstatistik i Matomo och systemloggar i Sentry | Finland ([källa](https://www.hetzner.com/unternehmen/rechenzentrum)) |
-| Mailjet   | Mejlserver-tjänst, hanterar alla e-post som skickas av plattformen till användarna | Belgien och Tyskland ([källa](https://www.mailjet.com/security-privacy/), [läs mer](https://www.mailjet.com/gdpr/mailjet-gdpr-compliance/)) |
+| Emaillabs   | Mejlserver-tjänst, hanterar alla e-post som skickas av plattformen till användarna | Polen ([källa](https://emaillabs.io/en/privacy-policy/)) |
 
-Notera att dessa företag erbjuder moln-tjänster i form av servrar eller mejl-tjänst. De listas här eftersom de kan teoretiskt få tillgäng till personuppgifter som finns lagrade på deras servrar. I praktiken innebär deras tjänst ingen aktiv behandling.
+Notera att dessa företag erbjuder moln-tjänster i form av servrar eller mejl-tjänst. De lisatas här eftersom de kan teoretiskt få tillgäng till personuppgifter som finns lagrade på deras servrar. I praktiken innebär deras tjänst ingen aktiv behandling.

@@ -79,7 +79,7 @@ Behandlingen av personuppgifter sker endast i EU/EES.
 - Plattformen driver från en server hos Hetzner i **Finland**
 - Besöksstatistik samlas på en Matomo server hos Hetzner i **Finland**
 - Loggar samlas på en Sentry server hos Hetzner i **Finland**
-- Mejlen som skickas av plattformen skickas igenom tjänsten Mailjet, på servrar i **Belgien eller Tyskland**
+- Mejlen som skickas av plattformen skickas igenom tjänsten Emaillabs, på servrar i **Polen**
 
 Läs mer om våra underbiträden i [bilagan 2](bilaga-2).
 
