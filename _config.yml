@@ -1,5 +1,4 @@
 title: "Decidim dokumentation"
-# remote_theme: just-the-docs/just-the-docs@v0.4.0
 theme: "just-the-docs"
 logo: /uploads/decidim-logo.svg
 #color_scheme: "dark"
