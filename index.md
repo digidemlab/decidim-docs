@@ -7,12 +7,12 @@ nav_order: 1
 redirect_from:
   - /docs/sv/
 ---
-# Välkommen till användarmanual för Decidim
+# Välkommen till användarmanualen för Decidim
 
 Här hittar du artiklar som hjälper dig att komma igång med Decidim, om hur du skapar processer och andra typer av utrymmen för deltagande.
 
 ## Support
 
-Om du inte hittar det du letar efter i denna manual får du gärna [kontakta oss](pierre@digidemlab.org) så hjälper vi dig!
+Om du inte hittar det du letar efter i denna manual får du gärna [kontakta oss](support@digidemlab.org) så hjälper vi dig!
 
 Du kan också föreslå nya artiklar för funktioner som är svåra att förstå.
