@@ -4,7 +4,7 @@ logo: /uploads/decidim-logo.svg
 #color_scheme: "dark"
 search_enabled: true
 heading_anchors: true
-footer_content: 'CC-BY 4.0 <a href="https://digidemlab.org">Digidem Lab</a> med inspiration från våra franska vänner Open Source Politics ❤️. Hjälp oss att förbättra den på <a href="https://github.com/digidemlab/decidim-docs">Github</a>!'
+footer_content: 'CC-BY 4.0 <a href="https://digidemlab.org">Digidem Lab</a>'
 base_url: "decidim-docs"
 plugins:
   - jekyll-redirect-from
